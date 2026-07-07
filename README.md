@@ -6,7 +6,7 @@
 **Full Stack Software Engineer** passionate about creating scalable web applications and exploring cutting-edge technologies. Currently crafting digital solutions at **Techstaunch** while continuously learning and growing in the ever-evolving world of software development.
 
 - 🎓 **Computer Engineering Graduate** from C.K. Pithawalla College
-- 💼 **Currently working as** Full Stack Software Engineer at Techstaunch  
+- 💼 **Currently working as** Full Stack Software Engineer at Propelius Technologies  
 - 📍 **Based in** Gujarat, India
 - 💡 **Focus on** Modern web technologies, scalable architectures, and user-centric design
 - 🌱 **Always learning** new frameworks, tools, and best practices
