@@ -1,117 +1,89 @@
-# Hi there, I'm Uves Shaikh! 👋
+<h1 align="center">Hi there, I'm Uves Shaikh 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer @ Propelius Technologies</h3>
 
+<p align="center">
+  <a href="mailto:uves.dev@gmail.com"><img src="https://img.shields.io/badge/Email-uves.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+917990665076"><img src="https://img.shields.io/badge/Phone-%2B91%2079906%2065076-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-## 🚀 About Me
+---
 
-**Full Stack Software Engineer** passionate about creating scalable web applications and exploring cutting-edge technologies. Currently crafting digital solutions at **Techstaunch** while continuously learning and growing in the ever-evolving world of software development.
+### 🚀 About Me
 
-- 🎓 **Computer Engineering Graduate** from C.K. Pithawalla College
-- 💼 **Currently working as** Full Stack Software Engineer at Propelius Technologies  
-- 📍 **Based in** Gujarat, India
-- 💡 **Focus on** Modern web technologies, scalable architectures, and user-centric design
-- 🌱 **Always learning** new frameworks, tools, and best practices
-- ⚡ **Fun fact:** I love turning complex problems into simple, elegant solutions!
+I'm a Full-Stack Software Engineer building scalable, high-performance web applications - from AI-powered SaaS platforms to enterprise CRM systems. I enjoy working across the entire stack, from crafting responsive, animated UIs to designing efficient database schemas and APIs.
 
+- 🔭 Currently building full-stack applications with **React.js, Next.js, Node.js, and GraphQL**
+- 🧠 Exploring **LLM integrations, AI-powered workflows, and real-time streaming systems**
+- 🎓 B.E. in Computer Engineering, Gujarat Technological University (CGPA: 8.96/10.0)
+- 🌱 Certified in **Claude Code** - Anthropic
+- 💬 Ask me about React/Next.js architecture, database design (PostgreSQL/MongoDB/Neo4j), or API integrations
 
-## 🌐 Connect With Me
+---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uves-shaikh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pt-uves)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShaikhUv1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uves.dev@gmail.com)
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-</div>
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 
-## 🛠️ Technical Skills
+**Integrations & Tools**
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### **Languages & Core Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+### 🌟 Featured Projects
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+**🔹 Project Alpha - Business Growth Operating System**
+`React` `Next.js` `Node.js` `Neo4j` `PostgreSQL` `GraphQL` `Python` `Mapbox`
+Multi-tenant CRM platform with LLM-based customer segmentation, automated data ingestion pipelines, and a geospatial "Battlemap" for field sales teams tracking thousands of retail locations in real time.
 
-### **Styling & Design**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+**🔹 Project Zenith - AI-Powered Radiology Reporting Platform**
+`React` `Next.js` `Node.js` `MongoDB` `Clerk` `Razorpay` `OpenAI`
+Full-stack AI reporting platform with real-time LLM streaming, automating findings-to-report workflows and cutting report creation time significantly.
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+**🔹 Project Nova - Network Infrastructure Services Platform**
+`React` `Next.js` `Node.js` `PostgreSQL` `TypeScript`
+Admin panel for a global IP transit and carrier Ethernet provider, managing 3,600+ peering partners and 12 transit carriers across US, Europe, and Asia PoPs.
 
-### **Development Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Nodemon](https://img.shields.io/badge/NODEMON-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+---
 
+### 📊 GitHub Stats
 
-## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pt-uves&show_icons=true&theme=default&hide_border=true" alt="Uves's GitHub stats" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pt-uves&hide_border=true" alt="Uves's GitHub streak" />
+</p>
 
-### 🏆 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pt-uves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+---
 
-### 🏅 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pt-uves&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 📫 Let's Connect
 
-### 📊 Contribution Graph
-[![Uves's github activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=pt-uves&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-
-## 🎯 Current Focus
-
-- 🔨 Building scalable web applications with modern JavaScript frameworks
-- 🚀 Exploring advanced React patterns and performance optimization
-- 🌐 Diving deeper into GraphQL and API design
-- 📚 Learning cloud technologies and DevOps practices
-- 🤝 Contributing to open-source projects
-
-
-<div align="center">
-
-### ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
-
-**Thanks for visiting my profile! Let's connect and build something amazing together!** 🚀
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+<p align="center">
+  <a href="mailto:uves.dev@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/uves-shaikh/">LinkedIn</a> ·
+  <a href="https://uves-shaikh.vercel.app">Portfolio</a>
+</p>
