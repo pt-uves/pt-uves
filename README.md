@@ -2,8 +2,9 @@
 <h3 align="center">Software Engineer | Full-Stack Developer @ Propelius Technologies</h3>
 
 <p align="center">
-  <a href="mailto:uves.dev@gmail.com"><img src="https://img.shields.io/badge/Email-uves.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+917990665076"><img src="https://img.shields.io/badge/Phone-%2B91%2079906%2065076-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:uves.shaikh@propelius.tech"><img src="https://img.shields.io/badge/Email-uves.shaikh%40propelius.tech-D14836?style=flat" /></a>
+  <a href="https://www.linkedin.com/in/uves-shaikh/"><img src="https://img.shields.io/badge/LinkedIn-uves--shaikh-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://uves-shaikh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-uves--shaikh.vercel.app-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,6 +40,7 @@ I'm a Full-Stack Software Engineer building scalable, high-performance web appli
 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
@@ -46,6 +48,7 @@ I'm a Full-Stack Software Engineer building scalable, high-performance web appli
 **Integrations & Tools**
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -71,11 +74,16 @@ Admin panel for a global IP transit and carrier Ethernet provider, managing 3,60
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pt-uves&show_icons=true&theme=default&hide_border=true" alt="Uves's GitHub stats" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pt-uves&theme=transparent" alt="Profile details and contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pt-uves&hide_border=true" alt="Uves's GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pt-uves&theme=transparent" alt="Uves's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pt-uves&theme=transparent" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pt-uves&theme=transparent&hide_border=true" alt="Uves's GitHub streak" />
 </p>
 
 ---
@@ -83,7 +91,7 @@ Admin panel for a global IP transit and carrier Ethernet provider, managing 3,60
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:uves.dev@gmail.com">Email</a> ·
+  <a href="mailto:uves.shaikh@propelius.tech">Email</a> ·
   <a href="https://www.linkedin.com/in/uves-shaikh/">LinkedIn</a> ·
   <a href="https://uves-shaikh.vercel.app">Portfolio</a>
 </p>
